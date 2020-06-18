@@ -1,4 +1,4 @@
-package pattern.factory_method;
+package br.com.devmedia.patherns.factory_method;
 
 public class HtmlDialog extends Dialog {
 

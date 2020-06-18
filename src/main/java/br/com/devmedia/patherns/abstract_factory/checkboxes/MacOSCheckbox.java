@@ -1,4 +1,4 @@
-package pattern.abstract_factory.checkboxes;
+package br.com.devmedia.patherns.abstract_factory.checkboxes;
 
 public class MacOSCheckbox implements Checkbox {
     @Override

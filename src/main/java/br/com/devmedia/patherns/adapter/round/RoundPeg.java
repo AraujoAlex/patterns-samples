@@ -1,4 +1,4 @@
-package pattern.adapter.round;
+package br.com.devmedia.patherns.adapter.round;
 
 //PINOS REDONDOS
 public class RoundPeg {

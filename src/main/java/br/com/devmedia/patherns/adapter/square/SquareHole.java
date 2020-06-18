@@ -1,4 +1,4 @@
-package pattern.adapter.square;
+package br.com.devmedia.patherns.adapter.square;
 
 //BURACOS REDONDOS
 public class SquareHole {

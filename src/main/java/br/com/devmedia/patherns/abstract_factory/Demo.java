@@ -1,9 +1,9 @@
-package pattern.abstract_factory;
+package br.com.devmedia.patherns.abstract_factory;
 
-import pattern.abstract_factory.application.Application;
-import pattern.abstract_factory.factories.GUIFactory;
-import pattern.abstract_factory.factories.MacOSFactory;
-import pattern.abstract_factory.factories.WindowsFactory;
+import br.com.devmedia.patherns.abstract_factory.application.Application;
+import br.com.devmedia.patherns.abstract_factory.factories.GUIFactory;
+import br.com.devmedia.patherns.abstract_factory.factories.MacOSFactory;
+import br.com.devmedia.patherns.abstract_factory.factories.WindowsFactory;
 
 public class Demo {
     private static Application configureApplication(){
